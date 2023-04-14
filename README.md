@@ -3,8 +3,13 @@
 
 - 🔭 I’m currently working on **personal nodejs projects**
 
-- 🌱 I’m currently learning **Java | Spring Boot .**
-- - �🔭 I’m planning to learn **blockchain,cyber security,devops** coming days .
+- 🌱 I’m currently learning **Golang .**
+- - �🔭 I’m planning to learn 
+        **blockchain** 
+        **devops** 
+        
+
+        coming days .
 
 
 - 👯 I’m looking to collaborate on **backend projects**
