@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently learning **Golang .**
 - - �🔭 I’m planning to learn 
-        **blockchain** 
-        **devops**  coming days .
+        **blockchain and devops** 
+         coming days .
 
 
 - 👯 I’m looking to collaborate on **backend projects**
