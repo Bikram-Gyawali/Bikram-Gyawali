@@ -1,12 +1,12 @@
 <h1 align="center">Hello there 👋, I am Bikram Gyawali.</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on **personal nodejs projects**
+- 🔭 I’m currently working on **Virtual Gravity**
 
 - 🌱 I’m currently learning **Golang .**
 - - �🔭 I’m planning to learn 
-        **blockchain and devops** 
-         coming days .
+        **ML and DevOps** 
+         coming days.
 
 
 - 👯 I’m looking to collaborate on **backend projects**
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bikramgyawali57@gmail.com**
 
-- ⚡ Fun fact **My dog stepped on an error...**
+- ⚡ Friendship Time **Give me your number**
 - ![](https://komarev.com/ghpvc/?username=Bikram-Gyawali&color=f95378)
 
 <h3 align="left">Connect with me:</h3>
