@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang .**
 - - �🔭 I’m planning to learn 
-        **ML and DevOps** 
+        **DevOps** 
          coming days.
 
 
