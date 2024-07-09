@@ -1,11 +1,14 @@
 <h1 align="center">Hello there 👋, I am Bikram Gyawali.</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 Previously worked on **Virtual Gravity**
+- 🔭 Previously worked on **Virtual Gravity** as Junior FullStack Developer (MERN) backend-specific
+- 🔭 Currently working on **Edit Enterprises** as Mid FullStack Developer (MERN/GOLANG/POSTGRES)
 
-- 🌱 I’m currently learning **Golang .**
+
+- 🌱 I’m currently working as **Golang Developer.**
 - - �🔭 I’m planning to learn 
-        **DevOps** 
+        **DevOps**
+        **ML/AI**
          coming days.
 
 
