@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer</h3>
 
 - 🔭 Previously worked on **Virtual Gravity** as Junior FullStack Developer (MERN) backend-specific
-- 🔭 Currently working on **Edit Enterprises** as Mid FullStack Developer (MERN/GOLANG/POSTGRES)
+- 🔭 Currently working on **Edit Enterprises** as Mid FullStack Developer (MERN | GOLANG | POSTGRES)
 
 
 - 🌱 I’m currently working as **Golang Developer.**
