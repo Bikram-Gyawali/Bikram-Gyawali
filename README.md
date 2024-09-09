@@ -17,7 +17,6 @@
 - 👨‍💻 All of my projects are available at [https://bikramgyawali.netlify.app/](https://bikramgyawali.netlify.app/)
 
 - 📫 How to reach me **bikramgyawali57@gmail.com**
-- 
 - ![](https://komarev.com/ghpvc/?username=Bikram-Gyawali&color=f95378)
 
 <h3 align="left">Connect with me:</h3>
