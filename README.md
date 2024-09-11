@@ -4,8 +4,6 @@
 -  🔭 Currently working on **Edit Enterprises** as Mid FullStack Developer (MERN | GOLANG | POSTGRES)
 -  🔭 Previously worked on **Virtual Gravity** as Junior FullStack Developer (MERN) backend-specific
 
-
-- 🌱 I’m currently working as **Golang Developer.**
 - - �🔭 I’m planning to learn 
         **DevOps**
         **ML/AI**
