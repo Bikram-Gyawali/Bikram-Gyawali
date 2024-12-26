@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **backend projects**
 
-- 👨‍💻 All of my projects are available at [https://bikramgyawali.netlify.app/](https://gyawalibikram.com.np/)
+- 👨‍💻 All of my projects are available at [http://gyawalibikram.com.np/](https://gyawalibikram.com.np/)
 
 - 📫 How to reach me **bikramgyawali57@gmail.com**
 - ![](https://komarev.com/ghpvc/?username=Bikram-Gyawali&color=f95378)
