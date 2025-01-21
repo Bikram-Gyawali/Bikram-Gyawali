@@ -20,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@bikramgyawali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@bikramgyawali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bikram gyawali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bikram gyawali" height="30" width="40" /></a>
-<a href="https://fb.com/bikram gyawali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bikram gyawali" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/technical asian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technical asian" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bikram-gyawali369/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bikram gyawali" height="30" width="40" /></a>
+<a href="https://www.facebook.com/BikramGyawali.369/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bikram gyawali" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@TechnicalAsian13579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technical asian" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
