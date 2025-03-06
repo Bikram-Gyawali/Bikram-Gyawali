@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer</h3>
 
 -  🔭 Currently working at **Edit Enterprises** as Mid Backend Developer (NODEJS | GOLANG | POSTGRES | MONGODB)
--  🔭 Previously worked at **Virtual Gravity** as Junior FullStack Developer (MERN) backend-specific
+-  🔭 Previously worked at **Virtual Gravity** as Junior FullStack Developer (MERN) Backend Focused
 
 - - �🔭 I’m planning to learn 
         **DevOps**
