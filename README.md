@@ -1,15 +1,14 @@
 <h1 align="center">Hello there 👋, I am Bikram Gyawali.</h1>
-<h3 align="center">A passionate Software Developer</h3>
-
--  🔭 Currently working at **Niural AI** as Mid Backend Developer (NODEJS | GOLANG | POSTGRES | MONGODB)
--  🔭 Previously worked at **Virtual Gravity, Edit Enterprises** as Junior FullStack Developer (MERN) Backend Focused
-
-- - �🔭 I’m planning to learn 
-        **DevOps**
-        **ML/AI**
-         coming days.
+<h3 align="center">A passionate Software Developer. I have developed rebash.dev </h3>
 
 
+### Professional Work Experience
+-  🔭 Currently working at **Niural AI** as Mid Backend Developer (PYTHON | GOLANG | POSTGRES | DYNAMODB )
+-  🔭 2023-2024 at **Edit Enterprises** as Mid Backend Engineer (NODEJS | GOLANG | POSTGRES | MONGODB)
+-  🔭 2021-2023 at **Virtual Gravity** as Junior FullStack Developer (MERN) Backend Focused
+
+
+### PING ME FOR : 
 - 👯 I’m looking to collaborate on **backend projects**
 
 - 👨‍💻 All of my projects are available at [gyawalibikram.com.np](https://gyawalibikram.com.np/)
