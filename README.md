@@ -3,7 +3,7 @@
 
 
 ### Professional Work Experience
--  🔭 Currently working at **Niural AI** as Mid Backend Developer (PYTHON | GOLANG | POSTGRES | DYNAMODB )
+-  🔭 Currently working at **Niural AI** as Backend Engineer (PYTHON | GOLANG | AWS | DYNAMODB )
 -  🔭 2023-2024 at **Edit Enterprises** as Mid Backend Engineer (NODEJS | GOLANG | POSTGRES | MONGODB)
 -  🔭 2021-2023 at **Virtual Gravity** as Junior FullStack Developer (MERN) Backend Focused
 
