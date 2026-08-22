@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I am Bikram Gyawali.</h1>
-<h3 align="center">A passionate Software & AI Engineer. I have developed rebash.dev </h3>
+<h3 align="center">A passionate Software & AI Engineer. I am building [rebash.dev](https://www.rebash.dev) </h3>
 
 
 ### Professional Work Experience
