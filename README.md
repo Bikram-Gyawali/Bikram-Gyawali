@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I am Bikram Gyawali.</h1>
 <h3 align="center">A passionate Software & AI Engineer.</h3>
 
-### And im building ![rebash.dev](https://www.rebash.dev)
+### And im building [rebash.dev](https://www.rebash.dev)
 
 ### Professional Work Experience
 -  🔭 Currently working at **Niural AI** as Backend Engineer (PYTHON | GOLANG | AWS | DYNAMODB )
